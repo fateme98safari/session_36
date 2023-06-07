@@ -118,7 +118,7 @@ excecute this command in terminal:
  spiderman\main.py
   ```
 ### **input**   
-![screenshot](spiderman/input/spiderman.JPG)
+![screenshot](spiderman/input/spiderman.jpg)
 ### **result**
    
 ![screenshot](spiderman/output/result.jpg)
