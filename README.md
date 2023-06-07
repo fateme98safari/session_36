@@ -41,7 +41,7 @@ excecute this command in terminal:
   ```
    
 ### **input**
-![screenshot](Balloons_detection/input/OIP.jpg)
+![screenshot](Balloons_detection/input/b.jpg)
 
 ---
 
